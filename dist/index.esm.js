@@ -1990,11 +1990,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.royalswap.com",
+                href: "https://exchange.royalswap.io",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.royalswap.com/#/pool",
+                href: "https://exchange.royalswap.io/#/pool",
             },
         ],
     },
